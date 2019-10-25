@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Referendum</string>
+    <string name="title_map">Karta</string>
+    <string name="title_list">Popis</string>
+    <string name="title_info">Info</string>
+    <string name="location_string">Location</string>
+    <string name="location_distance_string">Distance</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="string_locate">Moja Lokacija</string>
+    <string name="string_menu">menu</string>
+    <string name="county_name_string">Zupanija</string>
+    <string name="county_title_string">County</string>
+    <string name="county_default_string">I.</string>
+    <string name="about_me_string">O autoru</string>
+    <string name="action_bar_title">Uzmimo novac strankama</string>
+    <string name="referendum_photo_content_description">referendum_photo</string>
+    <string name="string_back_arrow">Nazad</string>
+</resources>
